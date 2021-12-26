@@ -5,24 +5,24 @@ Contributions most welcome.
 
 ## Courses
 
-CS391R: Robot Learning
-https://www.cs.utexas.edu/~yukez/cs391r_fall2021/
+[CS391R: Robot Learning]
+(https://www.cs.utexas.edu/~yukez/cs391r_fall2021/)
 
-CSC2621: Imitation Learning for Robotics, Winter 2019
-http://www.cs.toronto.edu/~florian/courses/imitation_learning/
+[CSC2621: Imitation Learning for Robotics, Winter 2019]
+(http://www.cs.toronto.edu/~florian/courses/imitation_learning/)
 
-CS336: Robot Perception and Decision-Making
-http://cs336.stanford.edu/
+[CS336: Robot Perception and Decision-Making]
+(http://cs336.stanford.edu/)
 
-CS331B: Interactive Simulation for Robot Learning
-https://web.stanford.edu/class/cs331b/
+[CS331B: Interactive Simulation for Robot Learning]
+(https://web.stanford.edu/class/cs331b/)
 
 
 
 ## Blog
 
-A Diverse List Of Robotics Learning Papers: From AI Experts To You
-http://bohg.cs.stanford.edu/list/index.php
+[A Diverse List Of Robotics Learning Papers: From AI Experts To You]
+(http://bohg.cs.stanford.edu/list/index.php)
 
 ## Videos
 
