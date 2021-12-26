@@ -13,6 +13,8 @@ Contributions most welcome.
 
 [CS331B: Interactive Simulation for Robot Learning](https://web.stanford.edu/class/cs331b/)
 
+## Conference
+[Conference on Robot Learning 2021](https://www.robot-learning.org/)
 
 ## Blog
 
@@ -20,3 +22,5 @@ Contributions most welcome.
 
 ## Videos
 [Stanford Seminar - The Next Generation of Robot Learning](https://www.youtube.com/watch?v=tcFLwgqO7G0)
+[RI Seminar: Chelsea Finn : Data Scalability for Robot Learning](https://www.youtube.com/watch?v=LGlgSeWemcM)
+[RI Seminar: Sergey Levine : Deep Robotic Learning](https://www.youtube.com/watch?v=eKaYnXQUb2g)
