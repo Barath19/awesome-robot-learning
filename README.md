@@ -2,3 +2,8 @@
 A curated list of Robot learning courses, books, video lectures and papers. 
 
 Contributions most welcome.
+
+Courses.
+
+CS391R: Robot Learning
+https://www.cs.utexas.edu/~yukez/cs391r_fall2021/
